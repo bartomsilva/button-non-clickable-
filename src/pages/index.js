@@ -35,6 +35,7 @@ export default function Home() {
         className="buttons"
         style={buttonStyle}
         onMouseOver={moveButtonRandomly}
+        onClick={moveButtonRandomly}
       >
         click e descubra!
       </button>
