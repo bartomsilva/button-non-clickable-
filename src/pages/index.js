@@ -15,6 +15,8 @@ export default function Home() {
     setButtonStyle({
       left: `${newLeft}px`,
       top: `${newTop}px`,
+      transition: 'left 0.3s ease, top 0.3s ease',
+
     });
   };
 
