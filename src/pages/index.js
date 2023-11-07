@@ -26,6 +26,9 @@ export default function Home() {
       <h1 className="text-xl font-semibold">
         o que devemos estudar para chegar lá rapidamente?
       </h1>
+      <h1 className="text-xl font-semibold">
+        dica do Bart!
+      </h1>
       <button
         className="buttons"
         style={buttonStyle}
